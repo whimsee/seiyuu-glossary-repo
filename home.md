@@ -1,6 +1,6 @@
 ## Welcome to your wiki!
 
-Your Otter Wiki is up and running.
+Your Otter Wiki is up and running. Test.
 
 This is your [[Home]] Page, the first page you see when access your
 wiki.
