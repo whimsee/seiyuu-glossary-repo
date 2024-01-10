@@ -1,6 +1,6 @@
 # Seiyuu Subculture Term Glossary
 
-**[Due to the amount of text, it’s highly recommended using the search tool or the [Table of Contents](https://whimsicaltranslations.wordpress.com/seiyuu-subculture-term-glossary/#tableofcontents). Some Japanese romaji readings will be used in place of their English counterparts for convenience, such as _seiyuu_ and _afureko._]**  
+**[Due to the amount of text, it’s highly recommended using the search tool or the [Table of Contents](https://whimsicaltranslations.wordpress.com/seiyuu-subculture-term-glossary/#tableofcontents). Some Japanese romaji readings will be used in place of their English counterparts for convenience, such as *seiyuu* and *afureko*.]**  
 
 **[Last updated: March 29, 2022]**
 
