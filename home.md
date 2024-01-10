@@ -19,3 +19,5 @@ First and foremost, this is a glossary loosely and arbitrarily organized by topi
 With the exception of _seiyuu_ because of how prevalent it is, entries are romanized in modified Hepburn [macrons for long vowels (ā, ē, ō, ū except i which is doubled), ん uniformly written as _n_, ambiguous syllable sequences broken up by apostrophe]. Proper names are presented as First name – Last name and **bolded** when mentioned for the first time. Direct literal translations are marked with “lit.”
 
 If there is something you feel needs to be added or edited for any reason, feel free to poke me (through the comments or [@jbtenmatay](https://twitter.com/jbtenmatay) on twitter) and I’ll be happy to go over it and update since it could be something I’m not familiar with or uncomfortable adding because I lack sufficient information. I’m by no means an expert and I’m always open for new information so I’ll appreciate it as well as those who will be reading this.
+
+# 2
