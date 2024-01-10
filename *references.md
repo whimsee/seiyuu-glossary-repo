@@ -1,6 +1,6 @@
 # References
 
-There can never be too many sources but one can never have enough time. For this glossary, I used other sources aside from personal experiences, observations and insight. I made use of wiki sources and dictionaries if applicable (not listed for there are too many). I used interviews, press releases, and staff/fan contributions and explainers, both in EN and JP, which are listed below. Some sources are _seiyuu_ radio shows and programs (untranslated), which are also noted. Some entries are made from a synthesis from different sources, feel free to ask if you have a question regarding those. 
+There can never be too many sources but one can never have enough time. For this glossary, I used other sources aside from personal experiences, observations and insight. I made use of wiki sources and dictionaries if applicable (not listed for there are too many). I used interviews, press releases, and staff/fan contributions and explainers, both in EN and JP, which are listed below. Some sources are *seiyuu* radio shows and programs (untranslated), which are also noted. Some entries are made from a synthesis from different sources, feel free to ask if you have a question regarding those. 
 
 (*Seiyuu* numbers, scheduling, time management, etc.)  
 [https://soranews24.com/2020/02/15/japan-has-more-anime-video-game-actresses-than-ever-before-according-to-major-seiyu-magazine/](https://soranews24.com/2020/02/15/japan-has-more-anime-video-game-actresses-than-ever-before-according-to-major-seiyu-magazine/)  
@@ -11,7 +11,7 @@ There can never be too many sources but one can never have enough time. For this
 [http://blog.millepensee.com/?eid=562](http://blog.millepensee.com/?eid=562)  
 [https://cho-animedia.jp/event/41691/](https://cho-animedia.jp/event/41691/)
 
-(Glossary from _Sore ga Seiyu)_  
+(Glossary from *Sore ga Seiyu*)
 [http://soregaseiyu.com/memo/](http://soregaseiyu.com/memo/)
 
 (Western voice acting glossary)  
@@ -75,7 +75,7 @@ h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708ht
 (*Seiyuu* nickname list)  
 [https://seiyuunotabi.tumblr.com/post/108627856342/female-seiyuu-nickname-list](https://seiyuunotabi.tumblr.com/post/108627856342/female-seiyuu-nickname-list)
 
-(Staff structure of _seiyuu_ radio programs) [https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/](https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/)
+(Staff structure of *seiyuu* radio programs) [https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/](https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/)
 
 (Rōdoku CD)  
 [https://omocoro.jp/bros/kiji/204896/](https://omocoro.jp/bros/kiji/204896/)
