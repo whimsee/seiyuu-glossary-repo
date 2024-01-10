@@ -2,9 +2,7 @@
 
 There can never be too many sources but one can never have enough time. For this glossary, I used other sources aside from personal experiences, observations and insight. I made use of wiki sources and dictionaries if applicable (not listed for there are too many). I used interviews, press releases, and staff/fan contributions and explainers, both in EN and JP, which are listed below. Some sources are _seiyuu_ radio shows and programs (untranslated), which are also noted. Some entries are made from a synthesis from different sources, feel free to ask if you have a question regarding those. 
 
-General, _afureko_, and recording sections
-
-(_Seiyuu_ numbers, scheduling, time management, etc.)  
+(*Seiyuu* numbers, scheduling, time management, etc.)  
 [https://soranews24.com/2020/02/15/japan-has-more-anime-video-game-actresses-than-ever-before-according-to-major-seiyu-magazine/](https://soranews24.com/2020/02/15/japan-has-more-anime-video-game-actresses-than-ever-before-according-to-major-seiyu-magazine/)  
 [https://www.reddit.com/r/seiyuu/comments/6m7u6b/seiyuu_voice_acting_time/](https://www.reddit.com/r/seiyuu/comments/6m7u6b/seiyuu_voice_acting_time/)  
 [https://seiyuuplus.wordpress.com/seiyuu-tamashii/](https://seiyuuplus.wordpress.com/seiyuu-tamashii/)
@@ -35,7 +33,7 @@ h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708ht
 [https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1035825800](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1035825800)  
 [https://yumemon.com/archives/2067](https://yumemon.com/archives/2067)
 
-(_wankōrasu_)  
+(*wankōrasu*)  
 [https://music-planet.jp/blog/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%AF%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%A9%E3%82%B9%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E/](https://music-planet.jp/blog/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%AF%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%A9%E3%82%B9%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E/)
 
 (Afureko and atereko. Not the only source since it was a mix of many others listed here and some wiki posts)  
@@ -44,7 +42,7 @@ h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708ht
 (Track down/Mix down)  
 [https://ongakuyougo.conceptmol.com/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3/](https://ongakuyougo.conceptmol.com/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3/)
 
-(_Kariuta_; demo track)  
+(*Kariuta*; demo track)  
 [https://ennuirockmusic.jp/columns/86/#i-11](https://ennuirockmusic.jp/columns/86/#i-11)
 
 (Hiroshi Kamiya – The Professional ENG SUB)  
@@ -61,7 +59,7 @@ h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708ht
 (Differences, pros, and cons of seiyuu schools and training schools)  
 [https://www.anime.ac.jp/difference02/](https://www.anime.ac.jp/difference02/)
 
-(_Seiyuu_ schools)  
+(*Seiyuu* schools)  
 [https://manga.tokyo/otaku-articles/how-to-become-a-voice-actor-in-the-anime-industry](https://manga.tokyo/otaku-articles/how-to-become-a-voice-actor-in-the-anime-industry)
 
 (Dummy Head Mic)  
@@ -70,11 +68,11 @@ h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708ht
 (Situation CDs)  
 [https://woman.mynavi.jp/article/131217-18/](https://woman.mynavi.jp/article/131217-18/)
 
-(_Seiyuu_ castings and earnings)  
+(*Seiyuu* castings and earnings)  
 [https://seiyuuplus.wordpress.com/2015/07/04/71-seiyuu-castings-earnings-everything-in-between/](https://seiyuuplus.wordpress.com/2015/07/04/71-seiyuu-castings-earnings-everything-in-between/)  
 [https://yumemon.com/archives/2067](https://yumemon.com/archives/2067)
 
-(_Seiyuu_ nickname list)  
+(*Seiyuu* nickname list)  
 [https://seiyuunotabi.tumblr.com/post/108627856342/female-seiyuu-nickname-list](https://seiyuunotabi.tumblr.com/post/108627856342/female-seiyuu-nickname-list)
 
 (Staff structure of _seiyuu_ radio programs) [https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/](https://www.reddit.com/r/seiyuu/comments/8b5cf3/the_staff_structure_of_seiyuu_radio_programs/)
@@ -116,7 +114,7 @@ Press, goods and merch
 (Tapestry reference)  
 [https://www.e-chirashi.biz/salespromotion/hannsoku/tapesuri/tapestries-essentials.php](https://www.e-chirashi.biz/salespromotion/hannsoku/tapesuri/tapestries-essentials.php)
 
-(_Buppan_ and resellers)  
+(*Buppan* and resellers)  
 [https://aqcg.jp/salesbusiness/](https://aqcg.jp/salesbusiness/)
 
 (Media mix)  
@@ -137,7 +135,7 @@ Events and Idols
 (Difference between tanjōkai and seitankai)  
 [https://chigai-allguide.com/%E7%94%9F%E8%AA%95%E3%81%A8%E8%AA%95%E7%94%9F/](https://chigai-allguide.com/%E7%94%9F%E8%AA%95%E3%81%A8%E8%AA%95%E7%94%9F/)
 
-(_Tori_ and _ootori_)  
+(*Tori* and *ootori*)  
 [https://chigai-allguide.com/%E3%83%88%E3%83%AA%E3%81%A8%E5%A4%A7%E3%83%88%E3%83%AA/](https://chigai-allguide.com/%E3%83%88%E3%83%AA%E3%81%A8%E5%A4%A7%E3%83%88%E3%83%AA/)
 
 (DD)  
@@ -148,8 +146,8 @@ Events and Idols
 
 Other sources:
 
-Mayu Yoshioka’s program _MyCloset_ for various notes about programs (#0, #6 latter half) and song recordings (#4 latter half), and stage play classifications (#0 latter half) + various _MyCloset_ blog posts related to theater.
+Mayu Yoshioka’s program *MyCloset* for various notes about programs (#0, #6 latter half) and song recordings (#4 latter half), and stage play classifications (#0 latter half) + various *MyCloset* blog posts related to theater.
 
-_Rangaban_ (Run Girls, Run! Program) EP 5 and 6 about Recording, composers, arrangers, lyricists by MONACA’s Keiichi Hirokawa and Hidekazu Tanaka.
+*Rangaban* (Run Girls, Run! Program) EP 5 and 6 about Recording, composers, arrangers, lyricists by MONACA’s Keiichi Hirokawa and Hidekazu Tanaka.
 
-_Shirobako_ and _Sore ga Seiyu_ (Dramaticized but true to a degree)
+*Shirobako* and *Sore ga Seiyu* (Dramaticized but true to a degree)
