@@ -25,7 +25,7 @@ There can never be too many sources but one can never have enough time. For this
 [htps://www.seiyu-target.com/entry/2019/01/01/153628t](https://www.seiyu-target.com/entry/2019/01/01/153628)
 
 (Kiipu)  
-h[ttps://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708https://yumemon.com/archives/508](https://www.esp.ac.jp/epv/glossary/02_13.html)  
+[https://www.esp.ac.jp/epv/glossary/02_13.htmlhttps://yumemon.com/archives/708https://yumemon.com/archives/508](https://www.esp.ac.jp/epv/glossary/02_13.html)  
 [https://yumemon.com/archives/708](https://yumemon.com/archives/708)  
 [https://yumemon.com/archives/5085](https://yumemon.com/archives/5085)
 
