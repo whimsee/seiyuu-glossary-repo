@@ -1,6 +1,6 @@
 # Seiyuu Subculture Term Glossary
 
-**[Use the search bar on the upper right or the term index on the sidebar. Some Japanese romaji readings will be used in place of their English counterparts for convenience, such as *seiyuu* and *afureko*.]**  
+**[Use the search bar on the upper right or the term index on the sidebar. Some Japanese romaji readings will be used in place of their English counterparts for convenience, such as *seiyuu* and *afureko*. References are found here (link).]**  
 
 **[Last updated: January 10, 2024]**
 
