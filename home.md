@@ -6,7 +6,7 @@
 
 ![](https://lh6.googleusercontent.com/_n2lRKI7BOg1kL10HN7X1HiVrewam3q4QbiJ4isOB_RG00l2CCylMR4UwEFqv1zs4A2qb0mOcFwRDEqFjHDarN7iq5h7WtCnhBFQpN-QyCjnTg2WEzSnnhJ9oc1SMEA9Be97HFsx)
 
-Image source: [https://www.nippon.com/en/japan-topics/c07203/a-global-gathering-of-prospective-voice-actors.html](https://www.nippon.com/en/japan-topics/c07203/a-global-gathering-of-prospective-voice-actors.html)
+[Image Source](https://www.nippon.com/en/japan-topics/c07203/a-global-gathering-of-prospective-voice-actors.html)
 
 The *seiyuu* fandom, niche it may be, is one of the easiest ways to get deep into Japanese entertainment culture. There are as many gateways as the kinds of jobs a *seiyuu* does, and it attracts people from all sorts of backgrounds and interests because there’s always something to appreciate. That makes for quite a slippery slope and before you know it, you’re on a plane trip to Japan just to see them.
 
