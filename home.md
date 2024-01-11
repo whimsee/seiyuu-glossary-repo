@@ -4,7 +4,7 @@
 
 **[Last updated: January 10, 2024]**
 
-![](https://lh6.googleusercontent.com/_n2lRKI7BOg1kL10HN7X1HiVrewam3q4QbiJ4isOB_RG00l2CCylMR4UwEFqv1zs4A2qb0mOcFwRDEqFjHDarN7iq5h7WtCnhBFQpN-QyCjnTg2WEzSnnhJ9oc1SMEA9Be97HFsx)
+![](/Home/180072.jpg)
 
 [Image Source](https://www.nippon.com/en/japan-topics/c07203/a-global-gathering-of-prospective-voice-actors.html)
 
